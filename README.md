@@ -22,8 +22,6 @@ You can also make animation with it! its pretty cool right?
 
 ---
 
-You can edit and make any pixel art or pixel animation art here!
-
 to change the color pallete you can use left click in the color and choose the color that you want, then right click the color pallete that you already change, its pretty simple, like this ( the change color functions ) :
 <img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/c357d9ac-0298-4139-a9ea-5d170466ebc1" />
 
@@ -31,6 +29,7 @@ to erase it just left click it, easy!
 
 the program runs in Java, but dont worry, its pretty small and didnt big. its really usefull for your own website, or apps, or games, and anything more if you need assets that contains pixel art, and its 100% free and you didnt pay anything, and it can runs on offline
 
+**You can edit and make any pixel art or pixel animation art here!**
 ---
 
 Free to use! have fun~
