@@ -3,17 +3,31 @@ My app that really can make pixel art and animation, you can edit, import, expor
 
 ---
 To run, find PixelArtMaker.java in src file
+
 ---
 
-to draw use right click, to erase it just left click it, easy!
+- to draw use right click, to erase it just left click it, easy!
+- save png is to save your art
+- load png is to import / load your art
+- export project is multiple function ( .jpg, .png, and .pam )
+- import project is only for .pam
+- code is the feature to see the codes in any different programming languange
+- settings is the important things to change the size, the background, and also the theme
+- animation is a feature that really can make your art turn into animation and you can edit frame by frame and copy the frames too ( but for now you cant use frame delay function because there is a bug that cant change 100ms delay per frame, I am still fixing it, will update later, if you can fix it, you can tell me in my instagram @mc.zminecrafter_18, I really appreciate that )
+- frame delay is the delay of frame-per-frame
+- loop delay is the delay of last frame-to-first frame
+- copy is for copying the frame
+- delete is for deleting the frame
+
+**To chose color pallete, left click the color and then you can choose the color that you want, after that just right click the color pallete that you already changed**
 
 # Here the pictures :
 
 You can make your own art here!
-<img width="959" height="503" alt="pict 1" src="https://github.com/user-attachments/assets/2794b94d-5dd9-4b03-b004-d48852512d63" />
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/b346f658-598a-4835-a5b9-c85bc777c87a" />
 
-You can save this to the file location that you want!
-<img width="564" height="101" alt="pict 2" src="https://github.com/user-attachments/assets/2752096b-bfcd-4d35-8dbf-88a5708c7073" />
+You can save the art to the file location that you want!
+<img width="503" height="98" alt="image" src="https://github.com/user-attachments/assets/672722ad-a69e-46a2-907f-9b0fb75b211c" />
 
 You can make game assets here! its easy and simple to use!
 <img width="959" height="504" alt="pict 3" src="https://github.com/user-attachments/assets/692fb0a1-fc97-4a00-8da0-21a85b42e916" />
