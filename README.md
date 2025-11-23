@@ -55,7 +55,7 @@ here the example :
 
 ---
 
-the program runs in Java, but dont worry, its pretty small and didnt big. its really usefull for your own website, or apps, or games, and anything more if you need assets that contains pixel art, and its 100% free and you didn't pay anything, and it can runs on offline
+the program runs in Java, but dont worry, its pretty small and didn't big. its really usefull for your own website, or apps, or games, and anything more if you need assets that contains pixel art, and its 100% free and you didn't pay anything, and it can runs on offline
 
 ---
 
